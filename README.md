@@ -36,7 +36,7 @@
   <img src="https://img.icons8.com/?size=96&id=13679&format=png" width="40" height="40" alt="Java" />
   
   <!-- Backend & Frameworks -->
-  <img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="JDBC" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" width="40" height="40" alt="JDBC" />
   <img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="Spring Boot" />
   
   <!-- Databases -->
