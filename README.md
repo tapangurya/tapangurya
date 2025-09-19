@@ -1,7 +1,7 @@
 
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
-<h1 align="center">Hi 👋, I'm Abhishek Ganvir!</h1>
+<h1 align="center">Hi 👋, I'm Tapan Gurya!</h1>
 <h3 align="center">A Passionate Full Stack Developer from India
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
 <div align="left">
@@ -14,8 +14,7 @@
 
 
 * 🎓  I'm currently pursuing a B.Tech in CSE
-* ✉️  You can contact me at [abhishekganvirr@gmail.com](mailto:abhishekganvirr@gmail.com)
-* ✨️ My best work till now  [IntervueAI](https://intervueai-io.vercel.app)
+* ✉️  You can contact me at [tapangurya72@gmail.com](mailto:tapangurya72@gmail.com)
 * 🚀 Interested in future tech
 
  <div align="left">
