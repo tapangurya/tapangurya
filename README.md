@@ -9,11 +9,12 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TapanGuryar&label=Profile%20views&color=0e75b6&style=flat" alt="TapanGurya" /> </p>
 
 
 
-* 🎓  I'm currently pursuing a B.Tech in CSE
+* 🎓  I'm done my B.Tech in CSE
+* 🎓  I'm recently compleated Java Fullstack Developmen trainning
 * ✉️  You can contact me at [tapangurya72@gmail.com](mailto:tapangurya72@gmail.com)
 * 🚀 Interested in future tech
 
@@ -49,9 +50,9 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 </div>
 <h3 align="left">Connect with me </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishekganvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
+<a href="https://www.linkedin.com/in/tapangurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapan gurya" height="26" width="35" /></a>
 <a href="https://instagram.com/alright.abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="https://discord.com/users/1240908554534260872" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
+<a href="https://discord.com/users/1240908554534260872" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="tapangurya" height="30" width="40" /></a>
 </p>
 
  <div align="left">
@@ -61,13 +62,13 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 
 
 <!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekganvir&layout=donut-vertical&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapangurya&layout=donut-vertical&show_icons=true&theme=radical)
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
   
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekganvir&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapangurya&show_icons=true&theme=radical)
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
