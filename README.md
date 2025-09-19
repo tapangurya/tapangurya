@@ -24,7 +24,7 @@
 
 ### Skills
 <p align="left">
-## 🚀 Skills
+# 🚀 Skills
 
 <p align="left">
   <!-- Frontend -->
@@ -62,17 +62,3 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-
-
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapangurya&layout=donut-vertical&show_icons=true&theme=radical)
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-  
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapangurya&show_icons=true&theme=radical)
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
