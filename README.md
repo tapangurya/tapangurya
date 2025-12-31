@@ -36,12 +36,16 @@
   <img src="https://img.icons8.com/?size=96&id=13679&format=png" width="40" height="40" alt="Java" />
   
   <!-- Backend & Frameworks -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" width="40" height="40" alt="JDBC" />
-  <img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="Spring Boot" />
-  
-  <!-- Databases -->
-  <img src="https://img.icons8.com/?size=96&id=13441&format=png" width="40" height="40" alt="MySQL" />
-  <img src="https://img.icons8.com/?size=96&id=38561&format=png" width="40" height="40" alt="PostgreSQL" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" width="40" height="40" alt="JDBC" />
+<img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="Spring Boot" />
+<img src="https://img.icons8.com/?size=96&id=108665&format=png" width="40" height="40" alt="Node.js" />
+<img src="https://img.icons8.com/?size=96&id=HKNzD81eiiSc&format=png" width="40" height="40" alt="Express.js" />
+
+<!-- Databases -->
+<img src="https://img.icons8.com/?size=96&id=13441&format=png" width="40" height="40" alt="MySQL" />
+<img src="https://img.icons8.com/?size=96&id=38561&format=png" width="40" height="40" alt="PostgreSQL" />
+<img src="https://img.icons8.com/?size=96&id=74402&format=png" width="40" height="40" alt="MongoDB" />
+
 </p>
 
 
