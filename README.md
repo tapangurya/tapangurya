@@ -51,6 +51,9 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
   <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="40" height="40" alt="CSS3" />
   <img src="https://img.icons8.com/?size=96&id=108784&format=png" width="40" height="40" alt="JavaScript" />
+  <!-- React.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js" />
+
 
   <!-- MERN Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
