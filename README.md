@@ -38,9 +38,6 @@
   <!-- Hibernate -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate" />
 
-<!-- Servlet -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Servlet (Java EE)" />
-
   <!-- Databases -->
   <img src="https://img.icons8.com/?size=96&id=13441&format=png" width="40" height="40" alt="MySQL" />
   <img src="https://img.icons8.com/?size=96&id=38561&format=png" width="40" height="40" alt="PostgreSQL" />
