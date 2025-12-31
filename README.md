@@ -26,29 +26,40 @@
 <p align="left">
 # 🚀 Skills
 
+## ☕ Java-Based Stack
+<p align="left">
+  <!-- Core Java -->
+  <img src="https://img.icons8.com/?size=96&id=13679&format=png" width="40" height="40" alt="Java" />
+
+  <!-- Java Backend -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" width="40" height="40" alt="JDBC" />
+  
+  <img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="Spring Boot" />
+  <!-- Hibernate -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate" />
+
+<!-- Servlet -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Servlet (Java EE)" />
+
+  <!-- Databases -->
+  <img src="https://img.icons8.com/?size=96&id=13441&format=png" width="40" height="40" alt="MySQL" />
+  <img src="https://img.icons8.com/?size=96&id=38561&format=png" width="40" height="40" alt="PostgreSQL" />
+</p>
+
+---
+
+## 🌐 MERN Stack
 <p align="left">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
   <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="40" height="40" alt="CSS3" />
   <img src="https://img.icons8.com/?size=96&id=108784&format=png" width="40" height="40" alt="JavaScript" />
-  
-  <!-- Programming -->
-  <img src="https://img.icons8.com/?size=96&id=13679&format=png" width="40" height="40" alt="Java" />
-  
-  <!-- Backend & Frameworks -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" width="40" height="40" alt="JDBC" />
-<img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="Spring Boot" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
 
-<img src="https://img.icons8.com/?size=96&id=HKNzD81eiiSc&format=png" width="40" height="40" alt="Express.js" />
-
-<!-- Databases -->
-<img src="https://img.icons8.com/?size=96&id=13441&format=png" width="40" height="40" alt="MySQL" />
-<img src="https://img.icons8.com/?size=96&id=38561&format=png" width="40" height="40" alt="PostgreSQL" />
-<img src="https://img.icons8.com/?size=96&id=74402&format=png" width="40" height="40" alt="MongoDB" />
-
+  <!-- MERN Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://img.icons8.com/?size=96&id=HKNzD81eiiSc&format=png" width="40" height="40" alt="Express.js" />
+  <img src="https://img.icons8.com/?size=96&id=74402&format=png" width="40" height="40" alt="MongoDB" />
 </p>
-
 
 </p> 
   
