@@ -12,9 +12,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TapanGuryar&label=Profile%20views&color=0e75b6&style=flat" alt="TapanGurya" /> </p>
 
 
+🎓 Professional Summary
 
-* 🎓  I'm done my B.Tech in CSE
+Currently working as a MERN Stack Developer, specializing in building full-stack web applications using modern technologies. Experienced in developing scalable and efficient applications with a focus on clean architecture and performance.
+
+💻 Tech Stack Expertise
+
+Frontend: MongoDB, Express.js, React.js, Node.js
+Backend Development: REST APIs, authentication, middleware
+Database Management: MongoDB (CRUD operations, schema design)
+Version Control: Git & GitHub
+
+🚀 Key Responsibilities
+
+Developing and maintaining end-to-end web applications
+Designing responsive and user-friendly interfaces
+Building secure and optimized backend services
+Collaborating with teams to deliver high-quality software solutions
+
 * 🎓  I'm recently compleated Java Fullstack Developmen trainning
+* 🎓  I'm done my B.Tech in CSE
 * ✉️  You can contact me at [tapangurya72@gmail.com](mailto:tapangurya72@gmail.com)
 * 🚀 Interested in future tech
 
