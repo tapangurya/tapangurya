@@ -12,6 +12,12 @@
 
 ---
 
+## 🎓 Professional Summary
+
+Currently working as a **MERN Stack Developer**, specializing in building full-stack web applications using modern technologies.  
+Experienced in developing **scalable, efficient, and high-performance applications** with a strong focus on **clean architecture and best practices**.
+
+---
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering  
