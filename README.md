@@ -38,56 +38,57 @@ Collaborating with teams to deliver high-quality software solutions
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
-### Skills
-<p align="left">
-# 🚀 Skills
-
+## 🚀 Skills
 
 ---
 
-## 🌐 MERN Stack
+### 🌐 MERN Stack
 <p align="left">
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="40" height="40" alt="CSS3" />
-  <img src="https://img.icons8.com/?size=96&id=108784&format=png" width="40" height="40" alt="JavaScript" />
-  <!-- React.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React.js"/>
 
-  <!-- MERN Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://img.icons8.com/?size=96&id=HKNzD81eiiSc&format=png" width="40" height="40" alt="Express.js" />
-  <img src="https://img.icons8.com/?size=96&id=74402&format=png" width="40" height="40" alt="MongoDB" />
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 </p>
 
-</p> 
-  
-## ☕ Java-Based Stack
+---
+
+### ☕ Java-Based Stack
 <p align="left">
   <!-- Core Java -->
-  <img src="https://img.icons8.com/?size=96&id=13679&format=png" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
 
-  <!-- Java Backend -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" width="40" height="40" alt="JDBC" />
-  
-  <img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="Spring Boot" />
+  <!-- JDBC -->
+  <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40" alt="JDBC"/>
+
+  <!-- Spring Boot -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+
   <!-- Hibernate -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate"/>
 
   <!-- Databases -->
-  <img src="https://img.icons8.com/?size=96&id=13441&format=png" width="40" height="40" alt="MySQL" />
-  <img src="https://img.icons8.com/?size=96&id=38561&format=png" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
 </p>
-<div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h3 align="left">Connect with me </h3>
+
+---
+
+### 🔗 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/tapan-gurya-384370200/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapan gurya" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/tapan-gurya-384370200/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
+</p>
 
 </p>
 
