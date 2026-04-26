@@ -43,22 +43,6 @@ Collaborating with teams to deliver high-quality software solutions
 <p align="left">
 # 🚀 Skills
 
-## ☕ Java-Based Stack
-<p align="left">
-  <!-- Core Java -->
-  <img src="https://img.icons8.com/?size=96&id=13679&format=png" width="40" height="40" alt="Java" />
-
-  <!-- Java Backend -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" width="40" height="40" alt="JDBC" />
-  
-  <img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="Spring Boot" />
-  <!-- Hibernate -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate" />
-
-  <!-- Databases -->
-  <img src="https://img.icons8.com/?size=96&id=13441&format=png" width="40" height="40" alt="MySQL" />
-  <img src="https://img.icons8.com/?size=96&id=38561&format=png" width="40" height="40" alt="PostgreSQL" />
-</p>
 
 ---
 
@@ -80,6 +64,22 @@ Collaborating with teams to deliver high-quality software solutions
 
 </p> 
   
+## ☕ Java-Based Stack
+<p align="left">
+  <!-- Core Java -->
+  <img src="https://img.icons8.com/?size=96&id=13679&format=png" width="40" height="40" alt="Java" />
+
+  <!-- Java Backend -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT5h5HEkiMWGX0RaprJOmld4uujKqIgslVQ&s" width="40" height="40" alt="JDBC" />
+  
+  <img src="https://img.icons8.com/?size=96&id=90519&format=png" width="40" height="40" alt="Spring Boot" />
+  <!-- Hibernate -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate" />
+
+  <!-- Databases -->
+  <img src="https://img.icons8.com/?size=96&id=13441&format=png" width="40" height="40" alt="MySQL" />
+  <img src="https://img.icons8.com/?size=96&id=38561&format=png" width="40" height="40" alt="PostgreSQL" />
+</p>
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
