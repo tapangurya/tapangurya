@@ -1,82 +1,35 @@
+<!-- Banner --><p align="center">  <img src="https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896" width="100%" /></p><h1 align="center">Hi 👋, I'm Tapan Gurya</h1><h3 align="center">Full Stack Developer | MERN & Java</h3><p align="center">  <img src="https://komarev.com/ghpvc/?username=TapanGuryar&label=Profile%20views&color=0e75b6&style=flat" /></p>---## 🚀 About Me- 🎓 B.Tech in Computer Science & Engineering  - 💼 MERN Stack Developer (Full Stack Web Apps)  - ☕ Trained in Java Full Stack Development  - ⚡ Focused on scalable architecture & clean code  - 📩 Email: **tapangurya72@gmail.com**  ---## 🛠️ Tech Stack### 🌐 MERN Stack<p align="center">  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" /></p>### ☕ Java Stack<p align="center">  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" /></p>---## 💼 What I Do✔️ Build full-stack web applications  ✔️ Design REST APIs & backend systems  ✔️ Create responsive UI with React  ✔️ Work with databases & schema design  ✔️ Optimize performance & security  ---## 📊 GitHub Stats<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=TapanGuryar&show_icons=true&theme=tokyonight" height="150"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TapanGuryar&theme=tokyonight" height="150"/></p>---## 🌐 Connect With Me<p align="center">  <a href="https://www.linkedin.com/in/tapan-gurya-384370200/">    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>  </a></p>---## ✨ Fun Touch<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Java+Enthusiast;Always+Learning+New+Tech" /></p>
 
-[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
-]()
-<h1 align="center">Hi 👋, I'm Tapan Gurya!</h1>
-<h3 align="center">A Passionate Full Stack Developer from India
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TapanGuryar&label=Profile%20views&color=0e75b6&style=flat" alt="TapanGurya" /> </p>
+🔥 What Changed (Key Improvements)
 
 
-🎓 Professional Summary
+Clean centered layout (no nested messy <div>)
 
-Currently working as a MERN Stack Developer, specializing in building full-stack web applications using modern technologies. Experienced in developing scalable and efficient applications with a focus on clean architecture and performance.
 
-💻 Tech Stack Expertise
+Used skill icons (skillicons.dev) instead of scattered images
 
-Frontend: MongoDB, Express.js, React.js, Node.js
-Backend Development: REST APIs, authentication, middleware
-Database Management: MongoDB (CRUD operations, schema design)
-Version Control: Git & GitHub
 
-🚀 Key Responsibilities
+Added GitHub stats & streaks
 
-Developing and maintaining end-to-end web applications
-Designing responsive and user-friendly interfaces
-Building secure and optimized backend services
-Collaborating with teams to deliver high-quality software solutions
 
-* 🎓  I'm recently compleated Java Fullstack Developmen trainning
-* 🎓  I'm done my B.Tech in CSE
-* ✉️  You can contact me at [tapangurya72@gmail.com](mailto:tapangurya72@gmail.com)
-* 🚀 Interested in future tech
+Better section spacing and hierarchy
 
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-## 🚀 Skills
 
----
+Professional + modern look (recruiter-friendly)
 
-### 🌐 MERN Stack
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
 
----
+Removed unnecessary repeated GIF separators
 
-### ☕ Java-Based Stack
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</p>
 
----
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/tapan-gurya-384370200/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
-</p>
+If you want, I can also:
 
-</p>
 
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+Add project showcase section
+
+
+Add portfolio-style animations
+
+
+Convert this into a developer portfolio website (React)
 
